@@ -1,2 +1,15 @@
 refs: 
   rules - https://www.pagat.com/exact/ohhell.html
+
+components:
+  card deck
+  players (4)
+  game loop
+    deal
+    bid
+      choose cards
+      determine winner
+      add scores
+    add/remove cards
+  rules
+  score
